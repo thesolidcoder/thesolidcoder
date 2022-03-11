@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @thesolidcoder
+- 👀 I’m interested in .NET, and web application development in general
